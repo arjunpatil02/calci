@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Calcii",
+    "slug": "Calcii",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "15bc4625-da59-478d-a36e-3c0f6e388b41"
+      }
+    }
+  }
+}
